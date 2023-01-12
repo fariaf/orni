@@ -1,0 +1,46 @@
+
+
+
+body {
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 30px;
+} 
+
+.tata {
+background-color:#CCD6A6 ;
+height: 100%;
+width: 100%;
+position: relative;
+}
+.hi {
+    background-color:#CCD6A6;
+}
+/*
+.profile {
+    background-color:#EAE0DA ;
+}
+.skills {
+background-color:  #EAE0DA; 
+}
+.skill-row {
+    background-color: #EAE0DA;
+}
+.contact-me{
+    background-color: #EAE0DA;;
+}
+.bottom-container {
+    background-color: #EAE0DA;
+}
+*/
+
+.mountain {
+    width: 85%;
+    height: 600px;
+    position: top;
+}
+.text {
+
+    text-decoration-color: goldenrod;
+}
+
